@@ -1,0 +1,25 @@
+{
+  "name": "dify",
+  "version": "1.0.0",
+  "description": "Split each image in a ZIP package in half vertically.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash ./docker/startup.sh",
+    "restart": "bash ./docker/restartup.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pulipuli.chen@gmail.com@github.com/pulipulichen/dify.git"
+  },
+  "keywords": [
+    "PWA"
+  ],
+  "author": "Pulipuli Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulipulichen/dify/issues"
+  },
+  "homepage": "https://github.com/pulipulichen/dify#readme",
+  "dependencies": {
+  }
+}
